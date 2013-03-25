@@ -1,4 +1,4 @@
 expense
 =======
 
-Mobile Expense Manager build with Phonegap + Twitter Bootstrap
+Mobile Expense Manager build with Phonegap
